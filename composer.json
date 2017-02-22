@@ -1,5 +1,5 @@
 {
-    "name": "artisaninweb/laravel-soap",
+    "name": "milanjk/laravel-soap",
     "description": "A SoapClient wrapper integration for Laravel",
     "keywords": ["laravel", "soap", "client", "wrapper"],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Artisaninweb\\SoapWrapper": "src/"
+            "Milanjk\\SoapWrapper": "src/"
         }
     }
 }
